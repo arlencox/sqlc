@@ -1,0 +1,10 @@
+(fn fst
+(fn snd
+(fn pair
+  (fn pr
+    (+ (fst pr) (snd pr)))
+  (pair 1 2)
+)))
+(fn p p (fn x fn y x))
+(fn p p (fn x fn y y))
+(fn x fn y fn z z x y)
